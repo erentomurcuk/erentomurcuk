@@ -6,7 +6,7 @@ I am a Computer Engineering student.
 
 [![Eren's GitHub Stats](https://github-readme-stats.vercel.app/api?username=erentomurcuk&show_icons=true&theme=tokyoradical&locale=en)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Eren's GitHub Stats](https://github-readme-stats.vercel.app/api?username=erentomurcuk&show_icons=true&theme=tokyoradical&locale=dk)](https://github.com/anuraghazra/github-readme-stats)
+[![Eren's GitHub Stats](https://github-readme-stats.vercel.app/api?username=erentomurcuk&show_icons=true&theme=tokyoradical&locale=da)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=erentomurcuk)](https://github.com/anuraghazra/github-readme-stats)
 
