@@ -1,6 +1,8 @@
 ### Hi there 👋 I am Ahmet Eren Tomurcuk
 
-I am a Computer Engineering student.
+ 🌱 I am a Computer Engineering student.
+ 
+ 💬 I am quite interested in C++
 
 Languages: TR / EN_UK / DA (Beginner)
 
