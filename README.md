@@ -12,8 +12,8 @@ Languages: TR / EN_UK / DA (Beginner)
 
 Projects: [Check pins]
 - Python + Flask REST API
-- Darkest Combat the Game (Bahçeşehir University - Object Oriented Programming - CMP1002)
-- FiveChungus P2P Transfer Application (Bahçeşehir University - Introduction to Computer Networks - CMP2204)
+- Darkest Combat the Game (Bahçeşehir Üniversitesi - Object Oriented Programming - CMP1002)
+- FiveChungus P2P Transfer Application (Bahçeşehir Üniversitesi - Introduction to Computer Networks - CMP2204)
 - MiniTwit (DevOps) (IT-Universitetet i København - DevOps, Software Evolution and Software Maintenance - BSDSESM1KU)
 
 
