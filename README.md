@@ -4,8 +4,8 @@ I am a Computer Engineering student.
 
 Languages: TR / EN_UK / DA (Beginner)
 
-[![Eren's GitHub Stats](https://github-readme-stats.vercel.app/api?username=erentomurcuk&show_icons=true&theme=tokyoradical&locale=en)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=erentomurcuk&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Eren's GitHub Stats](https://github-readme-stats.vercel.app/api?username=erentomurcuk&show_icons=true&theme=tokyonight&locale=en)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **erentomurcuk/erentomurcuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
