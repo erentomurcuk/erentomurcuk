@@ -2,7 +2,7 @@
 
  🌱 I am a Computer Engineering student.
  
- 💬 I am quite interested in C++
+ <!-- 💬 I am quite interested in C++ -->
 
 Languages: TR / EN_UK / DA (Beginner)
 
