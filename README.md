@@ -4,7 +4,7 @@
  
  <!-- 💬 I am quite interested in C++ -->
 
-Languages: TR / EN_GB / DA (Beginner)
+Languages: TR / EN / DA (Beginner)
 
 [![Eren's GitHub Stats](https://github-readme-stats.vercel.app/api?username=erentomurcuk&show_icons=true&theme=tokyonight&locale=en)](https://github.com/erentomurcuk)
 
