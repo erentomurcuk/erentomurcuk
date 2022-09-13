@@ -12,6 +12,7 @@ Languages: TR / EN / DA (Beginner)
 
 ⚡ Projects:
 - [Python + Flask REST API](https://github.com/erentomurcuk/Python-Flask-REST-API)
+- [Flutter Travel Application](https://github.com/erentomurcuk/Flutter-Travel-Application)
 - [Darkest Combat the Game (Bahçeşehir Üniversitesi - Object Oriented Programming wıth C++ - CMP1002)](https://github.com/Kaaleyah/darkest-combat)
 - [FiveChungus P2P Transfer Application (Bahçeşehir Üniversitesi - Introduction to Computer Networks - CMP2204)](https://github.com/Kaaleyah/FiveChungus)
 - [MiniTwit (DevOps) (IT-Universitetet i København - DevOps, Software Evolution and Software Maintenance - BSDSESM1KU)](https://github.com/Herover/itu-devops-h)
