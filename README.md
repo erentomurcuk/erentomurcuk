@@ -4,7 +4,8 @@
  
  <!-- 💬 I am quite interested in C++ -->
 
-Languages: TR / EN / DA (Beginner)
+ 💬 Languages: TR / EN / DA (Beginner)
+ 💻 Operating Systems: Manjaro (GNOME) with Wayland, Windows 11, Windows 10
 
 [![Eren's GitHub Stats](https://github-readme-stats.vercel.app/api?username=erentomurcuk&show_icons=true&theme=tokyonight&locale=en)](https://github.com/erentomurcuk)
 
