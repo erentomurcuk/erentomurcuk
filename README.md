@@ -6,7 +6,7 @@
 
  💬 Languages: TR / EN / DA (Beginner)
  
- 💻 Operating Systems: Manjaro, Windows 11, Windows 10
+ 💻 Operating Systems: Manjaro (KDE w/ Xserver), Windows 11, Windows 10
 
 [![Eren's GitHub Stats](https://github-readme-stats.vercel.app/api?username=erentomurcuk&show_icons=true&theme=tokyonight&locale=en)](https://github.com/erentomurcuk)
 
