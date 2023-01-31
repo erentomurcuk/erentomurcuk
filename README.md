@@ -1,12 +1,12 @@
-### Hi there 👋 I am Ahmet Eren Tomurcuk
+### Hi there 👋 I am Eren Tomurcuk
 
  🌱 I am a Computer Engineering student.
  
  <!-- 💬 I am quite interested in C++ -->
 
- 💬 Languages: TR / EN / DA (Beginner)
+ 💬 Languages: TUR / ENG / DAN (Beginner) / TSM (Beginner) [[ISO 639-3]](https://iso639-3.sil.org/code_tables/639/data)
  
- 💻 Operating Systems: endeavourOS KDE & Windows 11
+ 💻 Operating Systems that I am currently using: endeavourOS, Windows 11 & elementaryOS
 
 [![Eren's GitHub Stats](https://github-readme-stats.vercel.app/api?username=erentomurcuk&show_icons=true&theme=tokyonight&locale=en)](https://github.com/erentomurcuk)
 
