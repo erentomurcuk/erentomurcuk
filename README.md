@@ -6,7 +6,7 @@
 
  💬 Languages: TUR / ENG / DAN (Beginner) / TSM (Beginner) [[ISO 639-3]](https://iso639-3.sil.org/code_tables/639/data)
  
- 💻 Operating Systems that I am currently using: Linux Mint & Windows
+ 💻 Operating Systems that I am currently using: Windows & macOS
 
 [![Eren's GitHub Stats](https://github-readme-stats.vercel.app/api?username=erentomurcuk&show_icons=true&theme=tokyonight&locale=en)](https://github.com/erentomurcuk)
 
