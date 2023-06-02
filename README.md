@@ -1,14 +1,13 @@
 ### Hi there 👋 I am Eren Tomurcuk
 
  🌱 I am a Computer Engineering student.
- 
- <!-- 💬 I am quite interested in C++ -->
+ 📎 Currently working on my capstone project.
 
  💬 Languages: TUR / ENG / DAN (Beginner) / TSM (Beginner) [[ISO 639-3]](https://iso639-3.sil.org/code_tables/639/data)
  
  💻 Operating Systems that I am currently using: Windows & macOS
 
-[![Eren's GitHub Stats](https://github-readme-stats.vercel.app/api?username=erentomurcuk&show_icons=true&theme=tokyonight&locale=en)](https://github.com/erentomurcuk)
+ <!-- [![Eren's GitHub Stats](https://github-readme-stats.vercel.app/api?username=erentomurcuk&show_icons=true&theme=tokyonight&locale=en)](https://github.com/erentomurcuk) -->
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=erentomurcuk&layout=compact&langs_count=4&theme=tokyonight)](https://github.com/erentomurcuk)
 
