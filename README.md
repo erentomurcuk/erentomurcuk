@@ -11,6 +11,7 @@
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=erentomurcuk&layout=compact&langs_count=4&theme=tokyonight)](https://github.com/erentomurcuk)
 
 ⚡ Projects:
+- [Quick File Verifier for Microsoft Windows](https://github.com/erentomurcuk/QuickFileVerifier)
 - [Python + Flask REST API](https://github.com/erentomurcuk/Python-Flask-REST-API)
 - [Flutter Travel Application](https://github.com/erentomurcuk/Flutter-Travel-Application)
 - [Flutter BMI Calculator](https://github.com/erentomurcuk/Flutter-BMI-Calculator)
