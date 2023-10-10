@@ -12,13 +12,12 @@
 
 ⚡ Projects:
 - [Quick File Verifier for Microsoft Windows](https://github.com/erentomurcuk/QuickFileVerifier)
-- [Python + Flask REST API](https://github.com/erentomurcuk/Python-Flask-REST-API)
 - [Flutter Travel Application](https://github.com/erentomurcuk/Flutter-Travel-Application)
 - [Flutter BMI Calculator](https://github.com/erentomurcuk/Flutter-BMI-Calculator)
 - [Darkest Combat the Game (Bahçeşehir Üniversitesi - Object Oriented Programming wıth C++ - CMP1002)](https://github.com/Kaaleyah/darkest-combat)
 - [FiveChungus P2P Transfer Application (Bahçeşehir Üniversitesi - Introduction to Computer Networks - CMP2204)](https://github.com/Kaaleyah/FiveChungus)
 - [MiniTwit (DevOps) (IT-Universitetet i København - DevOps, Software Evolution and Software Maintenance - BSDSESM1KU)](https://github.com/Herover/itu-devops-h)
-- (Not publicly available yet) Determination of Resistance of Next Generation Antibiotics with the Help of Machine Learning (Bahçeşehir Üniversitesi - Capstone Project - CMP4991 & CMP4992)
+- (Not publicly available yet) Determination of Resistance of Next Generation Antibiotics with the Help of Machine Learning (Bahçeşehir Üniversitesi - Capstone Project - CMP4991 & CMP4992 & ETMS2023)
 
 
 <!--
