@@ -4,7 +4,7 @@
 
  💬 Languages: TUR / ENG / DAN (Beginner) / TSM (Beginner) [[ISO 639-3]](https://iso639-3.sil.org/code_tables/639/data)
  
- 💻 Operating Systems that I am currently using: Windows & macOS
+ 💻 Operating Systems that I am currently using: Windows 11, macOS Sonoma and Ubuntu 23.10
 
  <!-- [![Eren's GitHub Stats](https://github-readme-stats.vercel.app/api?username=erentomurcuk&show_icons=true&theme=tokyonight&locale=en)](https://github.com/erentomurcuk) -->
 
