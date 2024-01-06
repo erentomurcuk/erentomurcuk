@@ -11,6 +11,7 @@
 ⚡ Projects:
 - [A Reinforcement Learning-Inspired Estimation of Antibiotic Resistance in Poultry Environments (Bahçeşehir Üniversitesi - Capstone Project - CMP499X & ETMS2023)](https://github.com/erentomurcuk/AR-calculation-with-SBRCC-Algorithm)
 - [Quick File Verifier for Microsoft Windows](https://github.com/erentomurcuk/QuickFileVerifier)
+- [Emulated MOS 6502 Processor on C++](https://github.com/erentomurcuk/CPU6502)
 - [Darkest Combat the Game (Bahçeşehir Üniversitesi - Object Oriented Programming wıth C++ - CMP1002)](https://github.com/Kaaleyah/darkest-combat)
 - [FiveChungus P2P Transfer Application (Bahçeşehir Üniversitesi - Introduction to Computer Networks - CMP2204)](https://github.com/Kaaleyah/FiveChungus)
 - [MiniTwit (DevOps) (IT-Universitetet i København - DevOps, Software Evolution and Software Maintenance - BSDSESM1KU)](https://github.com/Herover/itu-devops-h)
