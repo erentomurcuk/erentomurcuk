@@ -1,6 +1,6 @@
 ### Hi there 👋 I am Eren Tomurcuk
 
- 🌱 I am a computer engineer.
+ 🌱 I am a computer engineer. (Well yes, and no.)
 
  💬 Languages: TUR / ENG / DAN (Beginner) / TSM (Beginner) [[ISO 639-3]](https://iso639-3.sil.org/code_tables/639/data)
 
@@ -15,18 +15,3 @@
 - [Darkest Combat the Game (Bahçeşehir Üniversitesi - Object Oriented Programming wıth C++ - CMP1002)](https://github.com/Kaaleyah/darkest-combat)
 - [FiveChungus P2P Transfer Application (Bahçeşehir Üniversitesi - Introduction to Computer Networks - CMP2204)](https://github.com/Kaaleyah/FiveChungus)
 - [MiniTwit (DevOps) (IT-Universitetet i København - DevOps, Software Evolution and Software Maintenance - BSDSESM1KU)](https://github.com/Herover/itu-devops-h)
-
-<!--
-**erentomurcuk/erentomurcuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
