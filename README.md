@@ -1,6 +1,6 @@
 ### Hi there 👋 I am Eren Tomurcuk
 
- 🌱 I am a computer engineer. (Well yes, and no.)
+ 🌱 I am a computer engineer.
 
  💬 Languages: TUR / ENG / DAN (Beginner) / TSM (Beginner) [[ISO 639-3]](https://iso639-3.sil.org/code_tables/639/data)
 
